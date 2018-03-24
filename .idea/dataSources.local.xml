@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="HSQLDB (Local) - jdbc:hsqldb:file:C:/_Work/CIZ/tryhibernate/src/test/java/p/hh/tryhibernate/hql\jdbc:h2:~/test/" uuid="acc4de48-1ef5-462e-9edd-244ad3ecda0c">
+      <secret-storage>master_key</secret-storage>
+      <user-name>sa</user-name>
+    </data-source>
+    <data-source name="hibernate.cfg.xml/Hibernate" uuid="cb36fec1-0ad9-42d8-81c1-5225f6e9d4db">
+      <first-sync>true</first-sync>
+      <user-name>sa</user-name>
+      <user-password>dfc0dfcedfc8dfc9df90dfc2df98df90dfd4df85dfdedfcfdfd9dfde</user-password>
+    </data-source>
+  </component>
+</project>

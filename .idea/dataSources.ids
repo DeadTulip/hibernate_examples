@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="dataSourceStorage">
+  <data-source name="HSQLDB (Local) - jdbc:hsqldb:file:C:/_Work/CIZ/tryhibernate/src/test/java/p/hh/tryhibernate/hql\jdbc:h2:~/test/" uuid="acc4de48-1ef5-462e-9edd-244ad3ecda0c">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source name="hibernate.cfg.xml/Hibernate" uuid="cb36fec1-0ad9-42d8-81c1-5225f6e9d4db">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+</component>
